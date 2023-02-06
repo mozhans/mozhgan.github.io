@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mozhgan Saeidi"
 title_separator          : "-"
 name                     : &name "Mozhgan Saeidi"
-description              : &description "Research scientist"
+description              : &description "Research Scientist"
 url                      : https://mozhgans.github.io # the base hostname & protocol for your site e.g. "mozhgans.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mozhgans/mozhgans.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mozhgan Saeidi"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
+  bio              : "Research Scientist" # at Test University, expert in all things test and account related"
   location         : "Toronto"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
