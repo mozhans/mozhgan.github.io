@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mozhgan Saeidi"
   avatar           : "profile.png"
-  bio              : "Research Scientist" # at Test University, expert in all things test and account related"
+  bio              : "Research Scientist"
   location         : "Toronto"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
