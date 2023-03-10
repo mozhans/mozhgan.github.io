@@ -10,12 +10,12 @@ main:
     url: /teaching/    
     
   - title: "Publications"
-    url: /portfolio/
+    url: /publications/
         
   - title: "Supervision"
     url: /year-archive/
     
-  - title: "Activities"
+  - title: "CV"
     url: /cv/
     
   - title: "Contact"
