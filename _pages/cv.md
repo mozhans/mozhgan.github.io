@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Isfahan University of Technology, 2012
+* M.S. in Graph Theory and Combinatorics, Isfahan University of Technology, 2014
+* Ph.D in test, 2018 (expected)
 
 Work experience
 ======
